@@ -3,8 +3,7 @@
   flex-direction: column;
   align-items: center;
   background: #fff url(../images/background_menu.svg) no-repeat center/cover;
-  margin-bottom: 100px;
-  margin-top: 100px;
+  padding: 100px 0;
 }
 
 .menu__title {

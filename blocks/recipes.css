@@ -11,6 +11,9 @@
 .recipes__title {
   margin: 0 0 24px;
   max-width: 580px;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .recipes__subtitle {
@@ -41,6 +44,7 @@
   width: 480px;
   height: 273px;
   display: block;
+  border: 0;
 }
 
 .recipes__video-caption {
