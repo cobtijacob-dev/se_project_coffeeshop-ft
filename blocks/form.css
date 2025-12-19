@@ -33,8 +33,8 @@
   border-radius: 4px;
 }
 
-.form__input:placeholder {
-  font-family: Inter, Arial, sans-serif';
+.form__input::placeholder {
+  font-family: '"Inter", Arial, sans-serif';
   font-weight: 'normal';
   font-size: '20px';
   line-height: '30px';
