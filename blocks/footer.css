@@ -53,7 +53,7 @@
 
 .footer__social-link:hover {
   opacity: 0.7;
-  transition: smooth;
+  transition: opacity 0.3 linear;
 }
 
 .footer__copyright {

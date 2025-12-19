@@ -34,11 +34,11 @@
 }
 
 .form__input::placeholder {
-  font-family: '"Inter", Arial, sans-serif';
-  font-weight: 'normal';
-  font-size: '20px';
-  line-height: '30px';
-  color: '#838383';
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #838383;
 }
 
 .form__button {
